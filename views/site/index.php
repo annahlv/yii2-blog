@@ -6,7 +6,7 @@ use yii\widgets\LinkPager;
 <div class="main-content">
     <div class="container">
         <div class="row">
-            <div class="col-md-8">.
+            <div class="col-md-8">
             <!--<a>сделать поиск, сортировку, мультязык, профили, дизигн</a>-->
             <?php foreach($articles as $article): ?>
                 <article class="post">
