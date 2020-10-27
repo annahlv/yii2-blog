@@ -51,12 +51,12 @@ PublicAsset::register($this);
                 
                 <div class="i_con">
                     <ul class="nav navbar-nav text-uppercase">
-                        <li>
+                        <!--<li>
                             <form method="get">
                             <input type="search" placeholder="Найти" name="q" value="<?=isset($_GET['q']) ? CHtml::encode($_GET['q']) : '' ; ?>" />
                             <input type="submit" value="поиск" />
                             </form>
-                        </li>
+                        </li>-->
                         <li>
                             <a href="/blog/web/index.php">Главная</a>
                         </li>
